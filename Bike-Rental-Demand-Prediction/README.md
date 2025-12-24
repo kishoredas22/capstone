@@ -31,7 +31,7 @@ This is a **supervised regression problem**.
 ## 📂 Dataset Description
 
 Dataset Source:  
-🔗 https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1018-BikeRental.zip
+🔗 https://demo.link.zip
 
 ### Files Used
 - `day.csv` → Daily bike rental data (used for modeling)
@@ -158,3 +158,4 @@ Key insights discovered:
  jupyter notebook
 
 4. Run Bike_Rental_Prediction.ipynb
+
